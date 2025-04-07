@@ -29,7 +29,7 @@ void filter_ascending(char* string_1);
 int main()
 {
     char string_1[20];
-    printf("Enter the string: ");
+    printf("Enter the string: "); //134235 
     scanf("%s", string_1);
     filter_ascending(string_1);
     printf("The modified string is: ");
